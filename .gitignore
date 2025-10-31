@@ -1,4 +1,5 @@
-﻿# Ignore build artifacts and local env
 node_modules/
-dist/
-*.env
+.env
+/.env.local
+npm-debug.log
+yarn-error.log
